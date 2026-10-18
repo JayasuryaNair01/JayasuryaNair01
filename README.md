@@ -6,7 +6,7 @@ I like breaking into things, the legal kind. Web app security and pentesting are
 
 I build things because I like figuring out how they work. Down the line, I want to give back by writing open source tools.
 
-Everything here is a learning project, rough edges included.
+Everything here is built and written out of practical curiosity and a desire to make cool things. Contributions, feedback, and code critiques are always welcome
 
 **Things I've built**
 
