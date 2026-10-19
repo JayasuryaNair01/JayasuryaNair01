@@ -9,7 +9,7 @@ I build things because I like figuring out how they work. Down the line, I want 
 Everything here comes from practical curiosity.
 
 **Things I've built**
-
+- [zip-parser](https://github.com/JayasuryaNair01/zip-parser): from-scratch ZIP parser, in progress (Rust)
 - [PassGuardian](https://github.com/JayasuryaNair01/PassGuardian): password checker using the HIBP k-anonymity API (Python)
 - [ReconLite](https://github.com/JayasuryaNair01/ReconLite): small threaded recon script (Python)
 - [ytm-play](https://github.com/JayasuryaNair01/ytm-play): terminal YouTube Music client (Rust)
