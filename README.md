@@ -1,12 +1,12 @@
 ### whoami
 
-Engineer by profession. I work as a combat systems engineer in the defence space.
+Engineer by profession. I work on Linux systems and networks for combat systems in the defence space.
 
-I like breaking into things, the legal kind. Web app security and pentesting are one part of that. I also love systems engineering, which is why I picked up Rust and enjoy building low-level stuff with it.
+On the security side, I focus on offensive security: web application testing and authorized penetration testing. I also love systems engineering, which is why I picked up Rust and enjoy building low-level stuff with it.
 
 I build things because I like figuring out how they work. Down the line, I want to give back by writing open source tools.
 
-Everything here is built and written out of practical curiosity and a desire to make cool things. 
+Everything here comes from practical curiosity.
 
 **Things I've built**
 
